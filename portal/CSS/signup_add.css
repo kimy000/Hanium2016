@@ -1,0 +1,8 @@
+	@CHARSET "UTF-8";
+	
+	body{font-family:"나눔고딕";}
+	table{margin-top:10px; border-color:"#189E42"; margin-left: auto; margin-right: auto; text-align:center;}
+	th{text-align:center; width:100px; height:60px;color:#189E42;  padding-top:5pt; padding-bottom:5pt;}
+	tr{padding-top:15pt; padding-bottom:15pt; text-align:center;}
+	td{width:500px; height:60px;padding-top:30pt; padding-bottom:5pt; text-align:left;}
+	font{font-weight:bold;}

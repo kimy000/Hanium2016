@@ -1,0 +1,9 @@
+	@CHARSET "UTF-8";
+
+	<!-- css 파일 -->
+	body{font-family:"나눔고딕";}
+	table{margin-top:10px; border-color:"#4FC9DE"; margin-left: auto; margin-right: auto; text-align:center;}
+	th{text-align:center; width:100px; height:60px;color:#FFFFFF; border-color:"#4FC9DE"; background-color:#4FC9DE; padding-top:5pt; padding-bottom:5pt;}
+	tr{border-color:"#4FC9DE"; padding-top:5pt; padding-bottom:5pt; text-align:center;}
+	td{width:250px; height:60;background-color:#CDFFFF;padding-top:5pt; border-color:"#4FC9DE"; padding-bottom:5pt; text-align:left;}
+	font{font-weight:bold;}

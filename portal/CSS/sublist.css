@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+body{font-family:"나눔고딕";}
+	
+	a:link{color:#A566FF; text-decoration:none;}
+	a:hover{color:#FFB2D9;}
+	a:active{color:yellow;}
+	a:visited{color:#5CD1E5; text-decoration:none;}
+	
+	table{margin-top:10px; border-color:"#4FC9DE"; margin-left: auto; margin-right: auto; text-align:center;}
+	th{height:50px;color:#247B8A; border-color:"#4FC9DE"; background-color:#4FC9DE; padding-top:5pt; padding-bottom:5pt; text-align:center; font-weight:bold;	}
+	tr{padding-top:5pt; padding-bottom:5pt; text-align:center;}
+	td{height:50px;background-color:#CDFFFF;padding-top:5pt; border-color:"#4FC9DE"; padding-bottom:5pt; text-align:center;}
+	

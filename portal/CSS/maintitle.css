@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+body{font-family:"나눔고딕"; font-size:3px;}
+	a:link{color:#A566FF; text-decoration:none;}
+	a:hover{color:#FFB2D9; text-color:#000000;}
+	a:active{color:yellow;}
+	a:visited{color:#2ED283; text-decoration:none;}

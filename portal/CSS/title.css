@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+<!-- css 파일 -->
+body{font-family:"나눔고딕";
+	margin:3px}
+ul{
+	text-align: left;
+	padding: 3px, 0;
+}
+ul li{
+	display: inline;
+	text-transform: uppercase;
+	padding: 0 30px;
+	position:relative;
+}
+ul li a{
+	text-decoration: none;
+	color:black;
+	position:relative;
+}
+ul li a:hover{
+	text-decoration: underline;
+	background: skyblue;
+	position:relative;
+}
